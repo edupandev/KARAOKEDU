@@ -1,0 +1,8 @@
+{
+  "name": "Remix KARAOKEDU - Smart TV \u0026 Mobile Karaoke Party",
+  "description": "Interactive Web Karaoke with Smart TV host display, real-time mobile queueing via QR code, YouTube karaoke video player, and live party reactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
